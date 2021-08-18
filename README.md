@@ -8,7 +8,7 @@
 </p>
 
 > A Music bot coded in javascript with discord.js<Br>
-  > OwO except a complete rewrite soon!
+  > OwO expect a complete rewrite soon!
 
 ## Install
 
