@@ -9,6 +9,7 @@
 
 > A Music bot coded in javascript with discord.js<Br>
   > OwO expect a complete rewrite soon!(check branch beta for it)
+### Check the beta branch for a complete rewrite (it's way better than this one")
 
 ## Install
 
